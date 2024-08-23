@@ -13,4 +13,4 @@ My Porfolio.![Screenshot 2024-08-23 185412](https://github.com/user-attachments/
 
 
 
-Deploy Link: https://66c88baed1cee38db6153277--clever-cupcake-492ecb.netlify.app/
+Deploy Link: https://66c8a5c0d921d3b7397a8098--wondrous-bublanina-3f59da.netlify.app/
